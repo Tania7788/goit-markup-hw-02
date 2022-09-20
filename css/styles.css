@@ -18,6 +18,7 @@ body {
     text-decoration: none;
 }
 .hero-button {
+    font-family: inherit;
     font-weight: 700;
     font-size: 16px;
     line-height: 1,9;
@@ -29,6 +30,7 @@ body {
     cursor: pointer;
 }
 .button {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1,6;
